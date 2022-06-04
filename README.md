@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💼 Any Freelance Work? Do reach, [email](mailto:obakriadbd@gmail.com) :)
 - 💬 Ask me about anything, I'm happy to help;
-
+<p align="left">
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -42,15 +42,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+</p>
 <br />
 <p align="left">
   <strong>🚧 My Todoist State: </strong><br />   
-  
-  🏆  7,995 Karma Points  <br />       
-  🌸  Completed 0 tasks today  <br />        
-  ✅  Completed 673 tasks so far  <br />        
-  ⏳  Longest streak is 10 days <br />
+
+  - [ ]🏆  7,995 Karma Points        
+  - [ ]🌸  Completed 0 tasks today  
+  - [ ]✅  Completed 673 tasks so far
+  - [ ]⏳  Longest streak is 10 days
 </p> 
 <br />
 <br />
@@ -58,9 +58,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 <p align="center">
-  
   <strong>📊 This week I spent my time on </strong>
-  
+</p>
+<p align="center">
   <!--START_SECTION:waka-->
 
   ```text
