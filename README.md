@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" width="275" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
+<img align="center" alt="GIF" height="275" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
 <a href="https://www.instagram.com/obakriad/">
   <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/instagram.svg" />
 </a>
