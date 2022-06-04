@@ -43,8 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
 <p align="left">
-  <strong>🚧 My Todoist State: </strong>
+  <strong>🚧 My Todoist State: </strong><br />   
   🏆  7,995 Karma Points  <br />       
   🌸  Completed 0 tasks today  <br />        
   ✅  Completed 673 tasks so far  <br />        
@@ -54,8 +55,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <br />
 <br />
+<br />
 
 <p align="center">
+  
   <strong>📊 This week I spent my time on </strong>
   
   <br />
@@ -74,8 +77,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p align="center">
   <strong>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</strong>
   <br />
+  
   <a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 </p>
+<br />
 
 <p align="center"><strong>📈 My github stats</strong></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obakriad&show_icons=true&theme=gotham" alt="obakriad" />
