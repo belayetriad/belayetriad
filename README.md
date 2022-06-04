@@ -47,43 +47,52 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
-🚧 **My Todoist State:** 
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p align="left">
+  <strong>🚧 **My Todoist State:** </strong>
+  <!-- TODO-IST:START -->
+  🏆  7,995 Karma Points    <br />       
+  🌸  Completed 0 tasks today   <br />        
+  ✅  Completed 673 tasks so far   <br />        
+  ⏳  Longest streak is 10 days <br />
+  <!-- TODO-IST:END -->
+</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-📊 **This week I spent my time on** 
-<br />
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   5 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.46 %
-JavaScript   4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
-JSON         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
-  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+  <strong>📊 This week I spent my time on </strong>
+  
+  <br />
+  
+  <!--START_SECTION:waka-->
+
+  ```text
+  TypeScript   5 hrs 7 mins    ████████████░░░░░░░░░░░░░   47.46 %
+  JavaScript   4 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.15 %
+  JSON         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+  Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+  ```
+  <!--END_SECTION:waka-->
+</p>
+
+<br />
+<br />
+<p align="center">
+  <strong>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</strong>
+  <br />
   <br />
   <a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 </p>
 
 <br />
 
-<p align="center">📈 <strong>**My github stats**</strong></p>
+<p align="center"><strong>📈 My github stats</strong></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obakriad&show_icons=true&theme=gotham" alt="obakriad" />
 
 
