@@ -25,7 +25,7 @@ Hi, I'm [Belayet Riad], a Full-Stack Web Developer With A Passion For Front-End 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/coding-eating.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/coding-eating.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:obakriadbd@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
