@@ -18,8 +18,11 @@
   <a href="https://www.linkedin.com/in/obakriad/">
     <img align="left" alt="Belayet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/linkedin.svg" />
   </a> 
-  <span>![](https://visitor-badge.glitch.me/badge?page_id=obakriad.obakriad)</span>
+  
+  
+  
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=obakriad.obakriad)
 <br />
 Hi, I'm [Belayet Riad], a Full-Stack Web Developer With A Passion For Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
 
