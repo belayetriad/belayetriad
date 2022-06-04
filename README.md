@@ -18,15 +18,12 @@
   <a href="https://www.linkedin.com/in/obakriad/">
     <img align="left" alt="Belayet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/linkedin.svg" />
   </a> 
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=obakriad.obakriad)
-
+  <span>![](https://visitor-badge.glitch.me/badge?page_id=obakriad.obakriad)</span>
 </p>
 <br />
 Hi, I'm [Belayet Riad], a Full-Stack Web Developer With A Passion For Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/coding-eating.gif" width="400" />
   
@@ -46,20 +43,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
 <p align="left">
-  <strong>🚧 **My Todoist State:** </strong>
-  <!-- TODO-IST:START -->
-  🏆  7,995 Karma Points    <br />       
-  🌸  Completed 0 tasks today   <br />        
-  ✅  Completed 673 tasks so far   <br />        
+  <strong>🚧 My Todoist State: </strong>
+  🏆  7,995 Karma Points  <br />       
+  🌸  Completed 0 tasks today  <br />        
+  ✅  Completed 673 tasks so far  <br />        
   ⏳  Longest streak is 10 days <br />
-  <!-- TODO-IST:END -->
-</p>
-<br />
-<br />
-<br />
-<br />
+</p> 
 <br />
 <br />
 <br />
@@ -81,16 +71,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <!--END_SECTION:waka-->
 </p>
 
-<br />
-<br />
 <p align="center">
   <strong>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</strong>
   <br />
-  <br />
   <a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 </p>
-
-<br />
 
 <p align="center"><strong>📈 My github stats</strong></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obakriad&show_icons=true&theme=gotham" alt="obakriad" />
