@@ -47,14 +47,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
-<br />
-<br />
-<br />
+🚧 **My todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
 <br />
 <br />
 <br />
 <br />
 📊 **This week I spent my time on:**
+<br />
 <!--START_SECTION:waka-->
 
 ```text
@@ -70,16 +76,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 
-🚧 **My todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 My github stats
+<br />
+<p align="center">📈 **My github stats**</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obakriad&show_icons=true&theme=gotham" alt="obakriad" />
 
