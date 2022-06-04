@@ -46,6 +46,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 <p align="left">
   <strong>🚧 My Todoist State: </strong><br />   
+  
   🏆  7,995 Karma Points  <br />       
   🌸  Completed 0 tasks today  <br />        
   ✅  Completed 673 tasks so far  <br />        
@@ -59,8 +60,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p align="center">
   
   <strong>📊 This week I spent my time on </strong>
-  
-  <br />
   
   <!--START_SECTION:waka-->
 
