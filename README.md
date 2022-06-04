@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" height="275" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
+<p align="center">
+  <img alt="GIF" height="275" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
+</p>
 <a href="https://www.instagram.com/obakriad/">
   <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/instagram.svg" />
 </a>
@@ -25,7 +27,7 @@ Hi, I'm [Belayet Riad], a Full-Stack Web Developer With A Passion For Front-End 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/coding-eating.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/coding-eating.gif" width="400" />
   
 - 💼 any freelance work? do reach, [email](mailto:obakriadbd@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
