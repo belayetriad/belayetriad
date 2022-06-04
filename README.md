@@ -1,6 +1,6 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
 <a href="https://www.instagram.com/obakriad/">
-  <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/main/assets/icons/instagram.png" />
+  <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/main/assets/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/obakriad/">
   <img align="left" alt="Belayet's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
