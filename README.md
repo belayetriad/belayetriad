@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
+<img align="center" alt="GIF" width="275" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/gif/hello.gif" />
 <a href="https://www.instagram.com/obakriad/">
   <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/instagram.svg" />
 </a>
@@ -57,7 +57,7 @@ Other        4 mins          ▒░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/obakriad" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
