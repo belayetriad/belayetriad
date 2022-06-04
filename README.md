@@ -54,7 +54,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p> 
 <br />
 <br />
-<br />
 
 <p align="center">
   <strong>📊 This week I spent my time on </strong>
