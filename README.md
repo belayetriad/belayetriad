@@ -1,16 +1,20 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/hello.gif" />
 <a href="https://www.instagram.com/obakriad/">
-  <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Belayet's Instagram" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/">
-  <img align="left" alt="Belayet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.facebook.com/obakriad/">
+  <img align="left" alt="Belayet's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/facebook.svg" />
 </a>
+<!-- <a href="https://discord.gg/">
+  <img align="left" alt="Belayet's Discord" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/discord.svg" />
+</a> -->
 <a href="https://twitter.com/obakriad">
-  <img align="left" alt="Belayet Riad | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Belayet Riad | Twitter" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/obakriad/">
-  <img align="left" alt="Belayet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <img align="left" alt="Belayet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/linkedin.svg" />
+</a> 
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=obakriad.obakriad)
 
@@ -21,7 +25,7 @@ Hi, I'm [Belayet Riad], a Full-Stack Web Developer With A Passion For Front-End 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/obakriad/obakriad/master/coding-eating.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:obakriadbd@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
