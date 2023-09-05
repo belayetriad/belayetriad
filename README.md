@@ -78,7 +78,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 <p align="center"><strong>📈 My github stats</strong></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=obakriad&show_icons=true&theme=gotham" alt="obakriad" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=belayetriad&show_icons=true&theme=gotham" alt="belayetriad" />
 
 
 
